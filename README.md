@@ -12,6 +12,11 @@ Using Sq2Sq LSTM based model alsg with attension
 
 - About LSTM 
 - Sq2Sq Encoder and Decoder based Model
+
+<p align = 'center'>
+  <img src = './utils/MLT.jpg' align = 'center'>
+</p>
+
 - Introduce Attention 
 
 
