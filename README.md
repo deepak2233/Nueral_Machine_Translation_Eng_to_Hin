@@ -26,3 +26,11 @@ LSTM stands for “long short-term memory.” (Quick aside: talk about one of th
 </p>
 
 
+----
+
+## Reference :
+- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- https://towardsdatascience.com/sequence-2-sequence-model-with-attention-mechanism-9e9ca2a613a
+- https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/
+
+
