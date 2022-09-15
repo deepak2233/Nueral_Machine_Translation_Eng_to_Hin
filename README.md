@@ -22,7 +22,7 @@ LSTM stands for “long short-term memory.” (Quick aside: talk about one of th
 
 - Introduce Attention 
 <p align = 'center'>
-  <img src = './utils/bahdanau.jpg' align = 'center'>
+  <img src = './utils/bahdanau.png' align = 'center'>
 </p>
 
 
